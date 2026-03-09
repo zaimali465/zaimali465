@@ -89,7 +89,7 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 # 🧠 LeetCode Stats
 
 <p align="center">
-<a href="https://leetcode.com/u/zaimali465/">
+
 <img src="https://leetcard.jacoblin.cool/zaimali465?theme=dark&font=Amethysta&ext=heatmap"/>
 </a>
 </p>
