@@ -25,8 +25,8 @@ Passionate about building modern web applications and learning new technologies.
 🌍 Based in Pakistan
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-handle)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin](https://share.google/ZKtNNJfJUKZqfRXLE))]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/zain-ali-b79299273/))
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)]([https://twitter.com/your-handle](https://x.com/itxzaim))
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://youtube.com/your-channel)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/your-server)
 
