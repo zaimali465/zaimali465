@@ -70,5 +70,5 @@ Passionate about building modern web applications and learning new technologies.
 
 
 
-<img width="497" height="270" alt="image" src="https://github.com/user-attachments/assets/d776c155-19f6-4c8a-8ffa-a7ae990c8ecf" />
+<img width="497" height="270" align="center" alt="image" src="https://github.com/user-attachments/assets/d776c155-19f6-4c8a-8ffa-a7ae990c8ecf" />
 
