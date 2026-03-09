@@ -5,7 +5,7 @@ Hi there, I'm Zain Ali 👋
 Passionate about building modern web applications and learning new technologies. I enjoy solving problems, creating scalable applications, and improving my development skills every day.
 
 <p align="center">
-  <img src="https://www.linkedin.com/analytics/profile-views/?username=zaimali465&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=zaimali465&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 🚀 About Me
