@@ -16,7 +16,7 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Student  
+
 
 🌱 Currently learning **Advanced React, Backend Development & APIs**
 
