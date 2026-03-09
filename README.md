@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Zain Ali</h1>
-<h3 align="center">MERN Stack Developer | Computer Science Student | Tech Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
 Passionate about building modern web applications and learning new technologies.  
