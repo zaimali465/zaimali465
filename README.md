@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaimali465&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
-</p>  Hi there, I'm Zain Ali 👋
+</p>  
+## Hi there, I'm Zain Ali 👋
 
 💻 MERN Stack Developer | Computer Science Student | Tech Enthusiast
 
@@ -8,7 +9,7 @@ Passionate about building modern web applications and learning new technologies.
 
 
 
-🚀 About Me
+## About Me
 
 🎓 Computer Science Student
 
@@ -24,7 +25,6 @@ Passionate about building modern web applications and learning new technologies.
 
 🌍 Based in Pakistan
 
-## 🌐 Connect with me:
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/zain-ali-b79299273/))
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)]([https://twitter.com/your-handle](https://x.com/itxzaim))
