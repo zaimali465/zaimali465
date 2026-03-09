@@ -16,12 +16,12 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 
 ## 👨‍💻 About Me
 
+                                                                                     <img width="326" height="300" align="right" alt="image" src="https://github.com/user-attachments/assets/c1b4b741-aa93-499e-97f7-7be6b4974509" />
 
 
-🌱 Currently learning **Advanced React, Backend Development & APIs**
+🌱 Currently learning **Advanced React, Backend Development & APIs** 
 
-🔭 Working on **MERN Stack Projects & Internship Tasks**                                      <img width="326" height="300" align="right" alt="image" src="https://github.com/user-attachments/assets/c1b4b741-aa93-499e-97f7-7be6b4974509" />
-
+🔭 Working on **MERN Stack Projects & Internship Tasks**                                     
 
 👯 Looking to collaborate on **Open Source & Web Development Projects**
 
