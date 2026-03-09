@@ -57,19 +57,15 @@ Passionate about building modern web applications and learning new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaimali465&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-## 🌟 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaimali465&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaimali465&theme=radical" alt="GitHub Streak"/>
+</p>
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/zaimali465?theme=dark&font=Amethysta&ext=heatmap"/>
 </p>
