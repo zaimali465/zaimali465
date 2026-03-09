@@ -76,7 +76,7 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 </p>
 
 
-# 🧠 LeetCode Stats
+# 🔥 Coding Streak
 
 <p align="center">
 
