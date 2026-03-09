@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @zaimali465
-- 👀 I’m interested in mobile app development, web development, and learning new technologies.
-- 🌱 I’m currently learning Java for Android development and improving my skills in web technologies like HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on mobile app development projects and open-source web applications.
-- 📫 How to reach me: You can email me at zainali2003786@gmail.com or reach out to me on LinkedIn at (https://www.linkedin.com/in/zain-ali-b79299273/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love fitness and recently achieved a personal record in bench pressing 40 kg !
+Hi there, I'm Zain Ali 👋
 
-<!---
-zaimali465/zaimali465 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 MERN Stack Developer | Computer Science Student | Tech Enthusiast
+
+Passionate about building modern web applications and learning new technologies. I enjoy solving problems, creating scalable applications, and improving my development skills every day.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaimali465&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+🚀 About Me
+
+🎓 Computer Science Student
+
+🌱 Currently learning Advanced React, Backend Development & APIs
+
+🔭 Currently working on MERN Stack Projects and Internship Tasks
+
+👯 Looking to collaborate on Open Source and Web Development Projects
+
+💬 Ask me about JavaScript, React, Node.js, and Web Development
+
+📫 Reach me at your-email@gmail.com
+
+🌍 Based in Pakistan
