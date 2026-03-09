@@ -60,8 +60,7 @@ Passionate about building modern web applications and learning new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaimali465&show_icons=true&theme=radical)](https://github.com/zaimali465)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=zaimali465&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ## 🌟 Most Used Languages
@@ -69,7 +68,6 @@ Passionate about building modern web applications and learning new technologies.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaimali465&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
