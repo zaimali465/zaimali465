@@ -1,4 +1,4 @@
-<img width="1000" height="317" alt="image" src="https://github.com/user-attachments/assets/7802ee9c-c4bb-4708-a6bc-3b8dc20352b3" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/7802ee9c-c4bb-4708-a6bc-3b8dc20352b3" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaimali465&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
