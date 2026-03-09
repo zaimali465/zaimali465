@@ -80,7 +80,8 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 
 <p align="center">
 
-<img width="422" height="274" alt="image" src="https://github.com/user-attachments/assets/68f14d4d-0f47-4779-aa52-51e42a0494eb" />
+<img width="430" height="514" alt="image" src="https://github.com/user-attachments/assets/43223a5f-654b-4e5f-bd4c-140c55162976" />
+
 
 </p>
 
