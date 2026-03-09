@@ -66,6 +66,4 @@ Passionate about building modern web applications and learning new technologies.
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/zaimali465?theme=dark&font=Amethysta&ext=heatmap"/>
-</p>
+<p align="center"> <a href="https://leetcode.com/u/zaimali465/" target="_blank"> <img src="https://leetcard.jacoblin.cool/zaimali465?theme=dark&font=Amethysta&ext=heatmap" alt="LeetCode Stats"/> </a> </p>
