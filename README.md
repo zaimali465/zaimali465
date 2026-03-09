@@ -75,23 +75,13 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaimali465&theme=radical"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zaimali465&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaimali465&layout=compact&theme=radical"/>
-</p>
-
----
 
 # 🧠 LeetCode Stats
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/zaimali465?theme=dark&font=Amethysta&ext=heatmap"/>
-</a>
+<img width="422" height="274" alt="image" src="https://github.com/user-attachments/assets/68f14d4d-0f47-4779-aa52-51e42a0494eb" />
+
 </p>
 
 ---
