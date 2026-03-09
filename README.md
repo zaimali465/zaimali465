@@ -20,10 +20,18 @@ Passionate about building modern web applications and learning new technologies.
 
 💬 Ask me about JavaScript, React, Node.js, and Web Development
 
-📫 Reach me at your-email@gmail.com
+📫 Reach me at zainalidev4@gmail.com
 
 🌍 Based in Pakistan
-🛠 Tech Stack / Skills
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-handle)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://youtube.com/your-channel)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/your-server)
+
+
+
 Frontend
 
 
