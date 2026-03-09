@@ -81,7 +81,7 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 
 # 🔥 Coding Streak
 
-<p align="center">
+<p align="left">
 
 <img width="430" height="514" alt="image" src="https://github.com/user-attachments/assets/43223a5f-654b-4e5f-bd4c-140c55162976" />
 
