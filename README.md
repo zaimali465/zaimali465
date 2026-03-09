@@ -72,7 +72,7 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaimali465&theme=radical"/>
