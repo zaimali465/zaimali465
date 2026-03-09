@@ -60,7 +60,7 @@ Passionate about building modern web applications and learning new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaimali465&show_icons=true&theme=radical" alt="Zain's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaimali465&show_icons=true&theme=radical&show_icons=true&theme=radical" alt="Zain's GitHub stats"/>
 </p>
 
 ## 🌟 Most Used Languages
