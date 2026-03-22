@@ -71,6 +71,9 @@ I enjoy solving problems, creating scalable applications, and improving my devel
 </p>
 
 ---
+🌟 Most Used Languages
+<img width="725" height="304" alt="image" src="https://github.com/user-attachments/assets/39ea24ac-bdb6-42b7-b656-a2527102d6bf" />
+
 
 # 📊 GitHub Stats
 
